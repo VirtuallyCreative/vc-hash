@@ -1,7 +1,7 @@
 ## Allegretto - The fast and lively CSS Framework
 
 
-Allegretto, a musical term and my cat, is a CSS3 framework built around easy to use grids and WCAG accessibility.
+ [Allegretto](https://allegretto.herokuapp.com/) , a musical term and my cat, is a CSS3 framework built around easy-to-use grids and WCAG accessibility.
 
 Mainly created for rapid S.P.A. prototyping and wireframing. The concept behind the framework is "fast and lively" - the meaning of the musical term: Allegretto. It doesn't use any CSS pre-processors, has a minimal load impact and has a grid system that's familiar to almost any front-end developer who has used a CSS framework in the past.
 
@@ -18,7 +18,7 @@ Link the stylesheet using CDN:
 ## Features
 
 -   Super light-weight. Just ~3kb (minified + gzipped).
--   Build with Accessability in mind, A.O.D.A "AA" Compliant
+-   Build with Accessibility in mind, A.O.D.A "AA" Compliant
 -   Fast and lively, great for quick wireframing/prototyping
 -   A 12-Col [grid](https://allegretto.herokuapp.com/#grid) that actually works
 -   Easy to [extend](https://allegretto.herokuapp.com/#customizing) with your own CSS variables
