@@ -11,7 +11,9 @@ Merging some concepts from Bootstrap like the `.row` and `.col` style classes, w
 
 Link the stylesheet using CDN:
 
-<link rel\="stylesheet" href\="https://unpkg.com/allegretto"\>
+```html
+<link rel="stylesheet" href="https://unpkg.com/allegretto"\>
+```
 
 ## Features
 
