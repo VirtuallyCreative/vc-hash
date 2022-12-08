@@ -1,7 +1,6 @@
 # The importance of inclusive design for a better converting website!
 
-#   
-Why Inclusive Design is Important
+## Why Inclusive Design is Important
 
 In today’s digital world, having an attractive and engaging website is essential to the success of any business. But simply having a pretty design isn’t enough. For your website to draw in the vast number of users that are online each day, there needs to be an element of inclusion - something that invites all types of people from diverse backgrounds regardless of their physical or mental disabilities. This concept is known as [inclusive design](https://www.youtube.com/watch?v=SYu6wnZhrBU), which is a vital part of every successful high-converting site build.
 
