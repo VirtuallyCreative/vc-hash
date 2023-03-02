@@ -1,4 +1,12 @@
-# Development Time Machine
+---
+title: "Development Time Machine"
+datePublished: Tue Feb 28 2023 15:54:42 GMT+0000 (Coordinated Universal Time)
+cuid: cleofjbdl000009mpawj62dj4
+slug: development-time-machine
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1677598244942/44860d10-1925-4de2-9b33-2cf0d7255b12.jpeg
+tags: advice, beginners
+
+---
 
 There are things that I would have benefited from learning early on in my development journey to make me a better freelance developer that no code tutorial or Bootcamp (that I'm aware of) has taught me.
 
